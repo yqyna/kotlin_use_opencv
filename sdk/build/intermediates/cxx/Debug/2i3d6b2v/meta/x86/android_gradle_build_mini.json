@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "D:\\Study\\kotlin_use_opencv\\sdk\\libcxx_helper\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\Study\\kotlin_use_opencv\\sdk\\.cxx\\Debug\\2i3d6b2v\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\Study\\kotlin_use_opencv\\sdk\\.cxx\\Debug\\2i3d6b2v\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared::@6890427a1f51a3e7e1df": {
+      "artifactName": "opencv_jni_shared",
+      "abi": "x86",
+      "output": "D:\\Study\\kotlin_use_opencv\\sdk\\.cxx\\Debug\\2i3d6b2v\\x86\\libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}
