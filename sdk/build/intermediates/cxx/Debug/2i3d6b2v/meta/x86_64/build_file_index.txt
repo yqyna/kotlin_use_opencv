@@ -1,0 +1,1 @@
+D:\Study\kotlin_use_opencv\sdk\libcxx_helper\CMakeLists.txt

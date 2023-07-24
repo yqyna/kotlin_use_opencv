@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: arm64-v8a",
+    "file_": "D:\\Study\\kotlin_use_opencv\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 137171698
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON D:\\Study\\kotlin_use_opencv\\sdk\\.cxx\\Debug\\2i3d6b2v\\arm64-v8a\\android_gradle_build.json due to:",
+    "file_": "D:\\Study\\kotlin_use_opencv\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1326587278
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json D:\\Study\\kotlin_use_opencv\\sdk\\.cxx\\Debug\\2i3d6b2v\\arm64-v8a\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "D:\\Study\\kotlin_use_opencv\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1946929146
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file D:\\Study\\kotlin_use_opencv\\sdk\\.cxx\\Debug\\2i3d6b2v\\arm64-v8a\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "D:\\Study\\kotlin_use_opencv\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1976526776
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "D:\\Study\\kotlin_use_opencv\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -385849056
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027D:\\Study\\kotlin_use_opencv\\sdk\\.cxx\\Debug\\2i3d6b2v\\arm64-v8a\u0027",
+    "file_": "D:\\Study\\kotlin_use_opencv\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2016828598
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027D:\\Study\\kotlin_use_opencv\\sdk\\.cxx\\Debug\\2i3d6b2v\\arm64-v8a\u0027",
+    "file_": "D:\\Study\\kotlin_use_opencv\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1772511530
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : D:\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HD:\\Study\\kotlin_use_opencv\\sdk\\libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dD:\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dD:\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dD:\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dD:\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\Study\\kotlin_use_opencv\\sdk\\build\\intermediates\\cxx\\Debug\\2i3d6b2v\\obj\\arm64-v8a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\Study\\kotlin_use_opencv\\sdk\\build\\intermediates\\cxx\\Debug\\2i3d6b2v\\obj\\arm64-v8a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-BD:\\Study\\kotlin_use_opencv\\sdk\\.cxx\\Debug\\2i3d6b2v\\arm64-v8a\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "D:\\Study\\kotlin_use_opencv\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 44916594
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : D:\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HD:\\Study\\kotlin_use_opencv\\sdk\\libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dD:\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dD:\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dD:\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dD:\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\Study\\kotlin_use_opencv\\sdk\\build\\intermediates\\cxx\\Debug\\2i3d6b2v\\obj\\arm64-v8a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\Study\\kotlin_use_opencv\\sdk\\build\\intermediates\\cxx\\Debug\\2i3d6b2v\\obj\\arm64-v8a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-BD:\\Study\\kotlin_use_opencv\\sdk\\.cxx\\Debug\\2i3d6b2v\\arm64-v8a\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "D:\\Study\\kotlin_use_opencv\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -949261519
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of D:\\Study\\kotlin_use_opencv\\sdk\\.cxx\\Debug\\2i3d6b2v\\arm64-v8a\\compile_commands.json.bin normally",
+    "file_": "D:\\Study\\kotlin_use_opencv\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1450074592
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "D:\\Study\\kotlin_use_opencv\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -698195307
+  },
+  {
+    "level_": 0,
+    "message_": "write command file D:\\Study\\kotlin_use_opencv\\sdk\\.cxx\\Debug\\2i3d6b2v\\arm64-v8a\\metadata_generation_command.txt",
+    "file_": "D:\\Study\\kotlin_use_opencv\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1374164312
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "D:\\Study\\kotlin_use_opencv\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1239877777
+  }
+]
